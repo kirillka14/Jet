@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Jet_Suhih</string>
+    <string name="title_activity_setting_alarm">SettingAlarm</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_alarm">AlarmActivity</string>
+    <string name="title_activity_calendar">CalendarActivity</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="title_activity_create_alarm">CreateAlarmActivity</string>
+    <string name="title_activity_edit_alarm">EditAlarmActivity</string>
+    <string name="title_activity_user_log">UserLogActivity</string>
+    <string name="title_activity_mai">MaiActivity</string>
+    <string name="title_activity_edit_task">EditTaskActivity</string>
+    <string name="title_activity_add_task">AddTaskActivity</string>
+</resources>
